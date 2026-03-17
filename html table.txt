@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table, th, td {
+  border: 5px solid green;
+}
+</style>
+</head>
+<body>
+<h1>The Ranks Of colleges</h1>
+<table style="width:90%">
+    <tr>
+    <th>College Name</th>
+    <th>College Code</th> 
+    <th>College Rank</th>
+    <th>No.Of.Toppers</th>
+  </tr>
+  <tr>
+    <td>AEC</td>
+    <td>2120</td>
+    <td>8</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>SVCE</td>
+    <td>1423</td>
+    <td>5</td>
+    <td>13</td>
+  </tr>
+  <tr>
+    <td>PEC</td>
+    <td>2314</td>
+    <td>2</td>
+    <td>78</td>
+  </tr>
+</table>
+</body>
+</html>
